@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FeroNeha
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Native Projects
+- 🌱 I’m currently learning React Native & Flutter
+- 💞️ I’m looking to collaborate on Native or Flutter Projects
 - 📫 How to reach me https://www.linkedin.com/in/neha-singh-7a2750ba/
 
 <!---
